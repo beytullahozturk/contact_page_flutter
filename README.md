@@ -3,7 +3,7 @@
 This is a contact page
 
 ## Screenshot
-<img src="https://user-images.githubusercontent.com/25108106/112167687-b2598800-8c01-11eb-87af-1ee17b37cf56.png" width="30%>  
+<img src="https://user-images.githubusercontent.com/25108106/112167687-b2598800-8c01-11eb-87af-1ee17b37cf56.png" width="30%">  
 
 ## Getting Started
 
